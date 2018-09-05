@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GarrettEstrin/git_hooks#readme",
   "dependencies": {
-    "react": "^16.4.2"
+    "react": "^16.4.2",
+    "moment": "^2.20.1"
   }
 }
